@@ -1,0 +1,15 @@
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\bin\Debug\net7.0\monthyterminal.exe
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\bin\Debug\net7.0\monthyterminal.deps.json
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\bin\Debug\net7.0\monthyterminal.runtimeconfig.json
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\bin\Debug\net7.0\monthyterminal.dll
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\bin\Debug\net7.0\monthyterminal.pdb
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\obj\Debug\net7.0\monthyterminal.csproj.AssemblyReference.cache
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\obj\Debug\net7.0\monthyterminal.GeneratedMSBuildEditorConfig.editorconfig
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\obj\Debug\net7.0\monthyterminal.AssemblyInfoInputs.cache
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\obj\Debug\net7.0\monthyterminal.AssemblyInfo.cs
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\obj\Debug\net7.0\monthyterminal.csproj.CoreCompileInputs.cache
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\obj\Debug\net7.0\monthyterminal.dll
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\obj\Debug\net7.0\refint\monthyterminal.dll
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\obj\Debug\net7.0\monthyterminal.pdb
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\obj\Debug\net7.0\monthyterminal.genruntimeconfig.cache
+\\autismuslink\Home\nabi\Projekte\montyhall\monthyterminal\obj\Debug\net7.0\ref\monthyterminal.dll

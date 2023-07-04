@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="200" Margin="25,21,0,0" VerticalAlignment="Top" Width="170" x:Name="door1img" Source="/door.png"/>
+        <Image HorizontalAlignment="Left" Height="200" Margin="306,21,0,0" VerticalAlignment="Top" Width="170" x:Name="door2img" Source="/door.png"/>
+        <Image HorizontalAlignment="Left" Height="200" Margin="605,21,0,0" VerticalAlignment="Top" Width="170" x:Name="door3img" Source="/door.png"/>
+        <Button Content="Door 1" HorizontalAlignment="Left" Margin="25,0,0,0" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.86" Height="46" Width="170" Click="DoorChoice" x:Name="door1"/>
+        <Button Content="Door 2" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.86" Height="46" Width="170" Click="DoorChoice" x:Name="door2"/>
+        <Button Content="Door 3" HorizontalAlignment="Left" Margin="605,0,0,0" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.86" Height="46" Width="170" Click="DoorChoice" x:Name="door3"/>
+        <Label Content="Prozent nicht Gewechselt" HorizontalAlignment="Left" Margin="94,380,0,0" VerticalAlignment="Top"/>
+        <Label Content="Prozent Gewechselt" HorizontalAlignment="Left" Margin="578,380,0,0" VerticalAlignment="Top"/>
+        <ProgressBar HorizontalAlignment="Left" Height="50" Margin="25,406,0,0" VerticalAlignment="Top" Width="281" Value="50" x:Name="staybar"/>
+        <ProgressBar HorizontalAlignment="Left" Height="50" Margin="494,406,0,0" VerticalAlignment="Top" Width="281" Value="50" x:Name="changebar"/>
+        <Label Content="N/A" HorizontalAlignment="Left" Margin="147,418,0,0" VerticalAlignment="Top" Height="36" x:Name="staynumber"/>
+        <Label Content="N/A" HorizontalAlignment="Left" Margin="616,418,0,0" VerticalAlignment="Top" Height="36" x:Name="changenumber"/>
+        <Label Content="Label" HorizontalAlignment="Center" Height="54" Margin="0,339,0,0" VerticalAlignment="Top" Width="170" HorizontalContentAlignment="Center" FontSize="25" VerticalContentAlignment="Center" Visibility="Hidden"/>
+
+    </Grid>
+</Window>
